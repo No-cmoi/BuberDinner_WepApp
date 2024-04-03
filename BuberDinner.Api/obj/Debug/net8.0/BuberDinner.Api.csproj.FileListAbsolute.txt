@@ -33,3 +33,5 @@
 /Users/2ahumbertmuller/Projects/BuberDinner_DDD/BuberDinner/BuberDinner.Api/bin/Debug/net8.0/BuberDinner.Application.pdb
 /Users/2ahumbertmuller/Projects/BuberDinner_DDD/BuberDinner/BuberDinner.Api/bin/Debug/net8.0/BuberDinner.Infrastructure.pdb
 /Users/2ahumbertmuller/Projects/BuberDinner_DDD/BuberDinner/BuberDinner.Api/bin/Debug/net8.0/BuberDinner.Domain.pdb
+/Users/2ahumbertmuller/Projects/BuberDinner_DDD/BuberDinner/BuberDinner.Api/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/2ahumbertmuller/Projects/BuberDinner_DDD/BuberDinner/BuberDinner.Api/obj/Debug/net8.0/BuberDinner.Api.sourcelink.json

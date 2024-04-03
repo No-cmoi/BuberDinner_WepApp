@@ -13,3 +13,4 @@
 /Users/2ahumbertmuller/Projects/BuberDinner_DDD/BuberDinner/BuberDinner.Application/bin/Debug/net8.0/BuberDinner.Domain.pdb
 /Users/2ahumbertmuller/Projects/BuberDinner_DDD/BuberDinner/BuberDinner.Application/obj/Debug/net8.0/BuberDinner.Application.csproj.AssemblyReference.cache
 /Users/2ahumbertmuller/Projects/BuberDinner_DDD/BuberDinner/BuberDinner.Application/obj/Debug/net8.0/BuberDin.E7CA8231.Up2Date
+/Users/2ahumbertmuller/Projects/BuberDinner_DDD/BuberDinner/BuberDinner.Application/obj/Debug/net8.0/BuberDinner.Application.sourcelink.json

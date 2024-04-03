@@ -9,3 +9,4 @@
 /Users/2ahumbertmuller/Projects/BuberDinner_DDD/BuberDinner/BuberDinner.Contracts/obj/Debug/net8.0/refint/BuberDinner.Contracts.dll
 /Users/2ahumbertmuller/Projects/BuberDinner_DDD/BuberDinner/BuberDinner.Contracts/obj/Debug/net8.0/BuberDinner.Contracts.pdb
 /Users/2ahumbertmuller/Projects/BuberDinner_DDD/BuberDinner/BuberDinner.Contracts/obj/Debug/net8.0/ref/BuberDinner.Contracts.dll
+/Users/2ahumbertmuller/Projects/BuberDinner_DDD/BuberDinner/BuberDinner.Contracts/obj/Debug/net8.0/BuberDinner.Contracts.sourcelink.json
