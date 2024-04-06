@@ -1,10 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "i/Xh2QDCrKELFYtLASxX2MoQ9HPEceDGen2JY9RcoWN/OYSJJ0IR2tD5E0cRaDeTdTURznL87dT4ue0EVCWEyA==",
+  "dgSpecHash": "GpMhU5cGAFA/Ab6nKahTKzCW7nxbWT4qvFD2ZDG4hLlDR3RPJymPsG0DFlmm+s++8vaDcqWmCNpR+fi/QSDqZA==",
   "success": true,
   "projectFilePath": "/Users/2ahumbertmuller/Projects/BuberDinner_DDD/BuberDinner/BuberDinner.Infrastructure/BuberDinner.Infrastructure.csproj",
   "expectedPackageFiles": [
-    "/Users/2ahumbertmuller/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.1/microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+    "/Users/2ahumbertmuller/.nuget/packages/microsoft.extensions.configuration/8.0.0/microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "/Users/2ahumbertmuller/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "/Users/2ahumbertmuller/.nuget/packages/microsoft.extensions.configuration.binder/8.0.0/microsoft.extensions.configuration.binder.8.0.0.nupkg.sha512",
+    "/Users/2ahumbertmuller/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.1/microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+    "/Users/2ahumbertmuller/.nuget/packages/microsoft.extensions.options/8.0.0/microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "/Users/2ahumbertmuller/.nuget/packages/microsoft.extensions.options.configurationextensions/8.0.0/microsoft.extensions.options.configurationextensions.8.0.0.nupkg.sha512",
+    "/Users/2ahumbertmuller/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/Users/2ahumbertmuller/.nuget/packages/microsoft.identitymodel.abstractions/7.5.0/microsoft.identitymodel.abstractions.7.5.0.nupkg.sha512",
+    "/Users/2ahumbertmuller/.nuget/packages/microsoft.identitymodel.jsonwebtokens/7.5.0/microsoft.identitymodel.jsonwebtokens.7.5.0.nupkg.sha512",
+    "/Users/2ahumbertmuller/.nuget/packages/microsoft.identitymodel.logging/7.5.0/microsoft.identitymodel.logging.7.5.0.nupkg.sha512",
+    "/Users/2ahumbertmuller/.nuget/packages/microsoft.identitymodel.tokens/7.5.0/microsoft.identitymodel.tokens.7.5.0.nupkg.sha512",
+    "/Users/2ahumbertmuller/.nuget/packages/system.identitymodel.tokens.jwt/7.5.0/system.identitymodel.tokens.jwt.7.5.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,5 +1,6 @@
-//@host=
-POST https://localhost:7224/auth/register HTTP/1.1
+@host=https://localhost:7224
+
+POST  {{host}}/auth/register HTTP/1.1
 content-type: application/json 
 
 {

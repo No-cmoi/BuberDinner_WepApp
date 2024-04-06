@@ -35,3 +35,8 @@
 /Users/2ahumbertmuller/Projects/BuberDinner_DDD/BuberDinner/BuberDinner.Api/bin/Debug/net8.0/BuberDinner.Domain.pdb
 /Users/2ahumbertmuller/Projects/BuberDinner_DDD/BuberDinner/BuberDinner.Api/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
 /Users/2ahumbertmuller/Projects/BuberDinner_DDD/BuberDinner/BuberDinner.Api/obj/Debug/net8.0/BuberDinner.Api.sourcelink.json
+/Users/2ahumbertmuller/Projects/BuberDinner_DDD/BuberDinner/BuberDinner.Api/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/2ahumbertmuller/Projects/BuberDinner_DDD/BuberDinner/BuberDinner.Api/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/2ahumbertmuller/Projects/BuberDinner_DDD/BuberDinner/BuberDinner.Api/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/2ahumbertmuller/Projects/BuberDinner_DDD/BuberDinner/BuberDinner.Api/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/2ahumbertmuller/Projects/BuberDinner_DDD/BuberDinner/BuberDinner.Api/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll

@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{F176247B-3255-4A9B-B9BC-A418945329BB}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BuberDinner.Api PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BuberDinner.Infrastructure/Authentication/JwtTokenGenerator.cs">
+    <Files>
+      <File FileName="BuberDinner.Infrastructure/Authentication/JwtTokenGenerator.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BuberDinner" expanded="True">
+            <Node name="BuberDinner.Infrastructure" expanded="True">
+              <Node name="Dependencies" selected="True" />
+              <Node name="Authentication" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
